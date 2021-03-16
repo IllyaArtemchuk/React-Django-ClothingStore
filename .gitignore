@@ -1,0 +1,6 @@
+docker-compose-prod.yml
+docker-compose.yml
+Dockerfile
+heroku.yml
+*.yml
+.vscode
